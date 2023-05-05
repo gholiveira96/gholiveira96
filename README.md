@@ -16,9 +16,4 @@
 
  Apaixonado por Tecnologia, estou cursando ensino superior em Análise e Desenvolvimento de Sistemas e aprendendo as linguagens de programação, as linguagens nas quais me identifiquei foi JavaScript e Phyton e continuo estudando. Nas horas vagas gosto de aprender mais sobre Banco de Dados, Mysql!
 
-@@ -1,4 +1,4 @@
-name: Generate Datas
-name: Snake Game
-
-on:
-  schedule: # execute every 5 hours
+.github/workflows/Snake.yml
