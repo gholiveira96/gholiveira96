@@ -12,6 +12,6 @@
  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
- </div>
+ </div><br/>
 
  Apaixonado por Tecnologia, estou cursando ensino superior em Análise e Desenvolvimento de Sistemas e aprendendo a desenvolver as linguagens de programação, as linguagens nas quais me identifiquei foi JavaScript e Phyton e continuo estudando. Nas horas vagas gosto de aprender mais sobre Banco de Dados, Mysql!
