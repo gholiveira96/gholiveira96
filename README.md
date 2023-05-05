@@ -14,4 +14,4 @@
  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
  </div><br/>
 
- Apaixonado por Tecnologia, estou cursando ensino superior em Análise e Desenvolvimento de Sistemas e aprendendo a desenvolver as linguagens de programação, as linguagens nas quais me identifiquei foi JavaScript e Phyton e continuo estudando. Nas horas vagas gosto de aprender mais sobre Banco de Dados, Mysql!
+ Apaixonado por Tecnologia, estou cursando ensino superior em Análise e Desenvolvimento de Sistemas e aprendendo as linguagens de programação, as linguagens nas quais me identifiquei foi JavaScript e Phyton e continuo estudando. Nas horas vagas gosto de aprender mais sobre Banco de Dados, Mysql!
