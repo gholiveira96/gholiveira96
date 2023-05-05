@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-oliveira-854712249/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_guioliveira96/)
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=gholiveira96&show_icons=true&theme=Dark)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=gholiveira96&show_icons=true&theme=dark)
 
 ### Tecnologias que uso no meu dia.
 
@@ -15,3 +15,10 @@
  </div><br/>
 
  Apaixonado por Tecnologia, estou cursando ensino superior em Análise e Desenvolvimento de Sistemas e aprendendo as linguagens de programação, as linguagens nas quais me identifiquei foi JavaScript e Phyton e continuo estudando. Nas horas vagas gosto de aprender mais sobre Banco de Dados, Mysql!
+
+@@ -1,4 +1,4 @@
+name: Generate Datas
+name: Snake Game
+
+on:
+  schedule: # execute every 5 hours
