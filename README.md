@@ -16,3 +16,8 @@
 
 Tecnologia, estou cursando ensino superior em Análise e Desenvolvimento de Sistemas e aprendendo as linguagens de programação, as linguagens nas quais me identifiquei foi JavaScript e Phyton e continuo estudando. Nas horas vagas gosto de aprender mais sobre Banco de Dados, Mysql!
 
+<div>
+    <a href="#">
+        <img align="center" alt="gholiveira96-Snake" title="Snake Game"
+            src="https://github.com/Kiaz0r/Kiaz0r/blob/output/github-contribution-grid-snake.svg">
+</div>
