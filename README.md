@@ -20,6 +20,7 @@ Tecnologia, estou cursando ensino superior em Análise e Desenvolvimento de Sist
     <a href="#">
         <img align="center" alt="Kiaz0r-Snake" title="Snake Game"
             src="https://github.com/Kiaz0r/Kiaz0r/blob/output/github-contribution-grid-snake.svg">
+    </a>
 </div>
 
 
