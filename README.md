@@ -16,5 +16,7 @@
 
 Tecnologia, estou cursando ensino superior em Análise e Desenvolvimento de Sistemas e aprendendo as linguagens de programação, as linguagens nas quais me identifiquei foi HTML, CSS, JavaScript e Phyton e continuo estudando. Nas horas vagas gosto de aprender mais sobre Banco de Dados, Mysql!
 
-![Snake Animation](dist/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='0' y='0' width='100%' height='100%' fill='%23000' /%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%23fff' font-family='Arial, sans-serif' font-size='24' dy='.35em'%3E🐍%3C/text%3E%3C/svg%3E" alt="Snake Animation" style="max-width:100%;" width="400" height="400">
+</p>
 
