@@ -16,8 +16,10 @@
 
 Tecnologia, estou cursando ensino superior em Análise e Desenvolvimento de Sistemas e aprendendo as linguagens de programação, as linguagens nas quais me identifiquei foi HTML, CSS, JavaScript e Phyton e continuo estudando. Nas horas vagas gosto de aprender mais sobre Banco de Dados, Mysql!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuário/seu-repositório/main/dist/github-contribution-grid-snake.svg" alt="Snake Animation" style="max-width:100%;">
-</p>
+<div>
+    <a href="#">
+        <img align="center" alt="Kiaz0r-Snake" title="Snake Game"
+            src="https://github.com/Kiaz0r/Kiaz0r/blob/output/github-contribution-grid-snake.svg">
+</div>
 
 
