@@ -16,6 +16,5 @@
 
 Tecnologia, estou cursando ensino superior em Análise e Desenvolvimento de Sistemas e aprendendo as linguagens de programação, as linguagens nas quais me identifiquei foi HTML, CSS, JavaScript e Phyton e continuo estudando. Nas horas vagas gosto de aprender mais sobre Banco de Dados, Mysql!
 
-<div>
-    [Snake Animation](dist/github-contribution-grid-snake.svg)
-</div>
+![Snake Animation](dist/github-contribution-grid-snake.svg)
+
